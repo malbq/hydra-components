@@ -14,7 +14,8 @@ export default {
 </style>
 <style>
 .h-button {
-  color: var(--primary-color);
+  font-size: var(--font-size);
+  color: var(--ink-color);
   background: #ffffff;
   padding: var(--size-xs) var(--size-m);
   border: 2px solid var(--primary-color);
