@@ -1,6 +1,6 @@
 {
   "name": "@hydra/vue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "main": "./dist/HydraVueComponents.common.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@hydra/tokens": "^1.0.1",
+    "@hydra/tokens": "^1.0.2",
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
   },
