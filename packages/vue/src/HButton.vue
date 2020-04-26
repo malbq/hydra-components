@@ -14,13 +14,14 @@ export default {
 </style>
 <style>
 .h-button {
+  color: var(--primary-color);
   background: #ffffff;
-  border: 2px solid var(--primaryColor);
+  padding: var(--size-xs) var(--size-m);
+  border: 2px solid var(--primary-color);
   border-radius: 4px;
   font-family: sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: var(--primaryColor);
 }
 </style>
