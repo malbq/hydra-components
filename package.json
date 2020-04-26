@@ -8,5 +8,10 @@
     "@rollup/plugin-node-resolve": "^7.1.3",
     "lerna": "^3.20.2",
     "rollup": "^2.7.2"
+  },
+  "scripts": {
+    "version": "lerna version",
+    "diff": "lerna diff",
+    "lerna": "lerna"
   }
 }

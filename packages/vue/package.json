@@ -1,7 +1,6 @@
 {
   "name": "@hydra/vue",
   "version": "1.0.2",
-  "private": true,
   "main": "./dist/HydraVueComponents.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
