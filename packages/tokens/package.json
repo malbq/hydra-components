@@ -1,0 +1,7 @@
+{
+  "name": "@hydra/tokens",
+  "version": "0.1.0",
+  "author": "Mauro Gadelha",
+  "private": true,
+  "main": "./src/index.js"
+}
