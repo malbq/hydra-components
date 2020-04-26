@@ -1,7 +1,7 @@
 {
   "name": "@hydra/vue",
   "license": "UNLICENSED",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "./dist/HydraVueComponents.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -9,7 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@hydra/tokens": "^1.0.3",
+    "@hydra/tokens": "^1.0.5",
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
   },
