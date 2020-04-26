@@ -1,5 +1,6 @@
 {
   "name": "@hydra/vue",
+  "license": "UNLICENSED",
   "version": "1.0.4",
   "main": "./dist/HydraVueComponents.common.js",
   "scripts": {

@@ -1,5 +1,6 @@
 {
   "name": "@hydra/tokens",
+  "license": "UNLICENSED",
   "version": "1.0.3",
   "author": "Mauro Gadelha",
   "main": "./src/index.js"
