@@ -1,5 +1,5 @@
 {
-  "name": "@hydra/tokens",
+  "name": "@hydra/wc",
   "version": "1.0.5",
   "license": "UNLICENSED",
   "main": "./src/index.js"
